@@ -3,7 +3,7 @@ geemap
 requests
 pycrs
 ee
-ipywidgets as widgets
+ipywidgets
 datetime
 pandas
 IPython.display

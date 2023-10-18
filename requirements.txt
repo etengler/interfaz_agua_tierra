@@ -6,6 +6,5 @@ ee
 ipywidgets
 datetime
 pandas
-IPython.display
 os
-zmq.constants
+

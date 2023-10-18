@@ -2,3 +2,10 @@ voila
 geemap
 requests
 pycrs
+ee
+ipywidgets as widgets
+datetime
+pandas
+IPython.display
+os
+zmq.constants

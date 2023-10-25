@@ -1,0 +1,5 @@
+runtime: python
+env: myenv
+runtime_config:
+  python_version: 3
+entrypoint: voila --port=$PORT --no-browser --template vuetify-default --enable_nbextensions=True at.ipynb
